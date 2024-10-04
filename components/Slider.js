@@ -115,7 +115,7 @@ export default function Slider() {
                   className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                 >
                   <span className="font-display">View Homes </span>
-                  <img src="./static/asset10.svg" className="w-6 h-6" />
+                  <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                 </a>
               </div>
             </div>
@@ -148,7 +148,7 @@ export default function Slider() {
                   className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                 >
                   <span className="font-display">View Homes </span>
-                  <img src="./static/asset10.svg" className="w-6 h-6" />
+                  <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                 </a>
               </div>
             </div>
@@ -168,7 +168,7 @@ export default function Slider() {
                     className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                   >
                     <span className="font-display">View Homes </span>
-                    <img src="./static/asset10.svg" className="w-6 h-6" />
+                    <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                   </a>
                 </div>
               </div>
@@ -189,7 +189,7 @@ export default function Slider() {
                     className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                   >
                     <span className="font-display">View Homes </span>
-                    <img src="./static/asset10.svg" className="w-6 h-6" />
+                    <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                   </a>
                 </div>
               </div>
@@ -210,7 +210,7 @@ export default function Slider() {
                     className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                   >
                     <span className="font-display">View Homes </span>
-                    <img src="./static/asset10.svg" className="w-6 h-6" />
+                    <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                   </a>
                 </div>
               </div>
@@ -231,7 +231,7 @@ export default function Slider() {
                     className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                   >
                     <span className="font-display">View Homes </span>
-                    <img src="./static/asset10.svg" className="w-6 h-6" />
+                    <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                   </a>
                 </div>
               </div>
@@ -252,7 +252,7 @@ export default function Slider() {
                     className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                   >
                     <span className="font-display">View Homes </span>
-                    <img src="./static/asset10.svg" className="w-6 h-6" />
+                    <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                   </a>
                 </div>
               </div>
@@ -287,7 +287,7 @@ export default function Slider() {
                     className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                   >
                     <span className="font-display">View Homes </span>
-                    <img src="./static/asset10.svg" className="w-6 h-6" />
+                    <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                   </a>
                 </div>
               </div>
@@ -312,7 +312,7 @@ export default function Slider() {
                   className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                 >
                   <span className="font-display">View Homes </span>
-                  <img src="./static/asset10.svg" className="w-6 h-6" />
+                  <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                 </a>
               </div>
             </div>
@@ -332,7 +332,7 @@ export default function Slider() {
                     className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                   >
                     <span className="font-display">View Homes </span>
-                    <img src="./static/asset10.svg" className="w-6 h-6" />
+                    <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                   </a>
                 </div>
               </div>
@@ -365,7 +365,7 @@ export default function Slider() {
                   className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                 >
                   <span className="font-display">View Homes </span>
-                  <img src="./static/asset10.svg" className="w-6 h-6" />
+                  <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                 </a>
               </div>
             </div>
@@ -385,7 +385,7 @@ export default function Slider() {
                     className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                   >
                     <span className="font-display">View Homes </span>
-                    <img src="./static/asset10.svg" className="w-6 h-6" />
+                    <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                   </a>
                 </div>
               </div>
@@ -406,7 +406,7 @@ export default function Slider() {
                     className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                   >
                     <span className="font-display">View Homes </span>
-                    <img src="./static/asset10.svg" className="w-6 h-6" />
+                    <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                   </a>
                 </div>
               </div>
@@ -427,7 +427,7 @@ export default function Slider() {
                     className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                   >
                     <span className="font-display">View Homes </span>
-                    <img src="./static/asset10.svg" className="w-6 h-6" />
+                    <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                   </a>
                 </div>
               </div>
@@ -448,7 +448,7 @@ export default function Slider() {
                     className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                   >
                     <span className="font-display">View Homes </span>
-                    <img src="./static/asset10.svg" className="w-6 h-6" />
+                    <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                   </a>
                 </div>
               </div>
@@ -469,7 +469,7 @@ export default function Slider() {
                     className="bg-white rounded px-2 py-1 flex w-2/3 bg-opacity-80"
                   >
                     <span className="font-display">View Homes </span>
-                    <img src="./static/asset10.svg" className="w-6 h-6" />
+                    <img src="./static/asset10.svg" alt="" className="w-6 h-6" />
                   </a>
                 </div>
               </div>

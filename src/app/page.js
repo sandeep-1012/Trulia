@@ -21,14 +21,14 @@ export default function Home() {
     return () => {
       document.removeEventListener('mousedown', handleClickOutside);
     };
-  }, []);
+  });
   return (
     <div className="bg-gray-100">
       {/* Navbar */}
       <nav className="flex justify-between items-center  p-2 lg:p-2 fixed bg-gray-100 top-0 left-0 w-full h-16 z-50">
         <div className="flex items-center gap-5">
           <div className="text-lg lg:text-xl  text-gray-800 ml-3">
-            <img src="/static/asset6.svg" />
+            <img src="/static/asset6.svg" alt="" />
           </div>
           <div className="hidden lg:flex space-x-2 lg:space-x-3 text-gray-600 font-bold font-display">
             <div className="group relative z-50">
@@ -142,7 +142,7 @@ export default function Home() {
           <div className="text-gray-600 text-xl flex  relative">
           <input  type="text"  placeholder="Search for City, Neighborhood, Zip, Country" 
           className="w-[445px] h-16 py-2 px-6  border-4 border-primary rounded-xl focus:outline-none"/>
-          <img src="/static/asset9.svg" className="w-6 h-6 absolute top-5 left-1 -mx-0" />  
+          <img src="/static/asset9.svg" alt="" className="w-6 h-6 absolute top-5 left-1 -mx-0" />  
           </div>
           <button className="text-primary px-4 py-2 rounded -ml-2 font-display absolute top-5 right-0 bg-white md:static" 
           onClick={closePopup}
@@ -180,7 +180,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col md:flex-row justify-center gap-10 mb-3">
           <div className="flex flex-col justify-center items-center">
-            <img src="/static/asset1.svg" className="w-[150px] h-[150px]" />
+            <img src="/static/asset1.svg" alt="" className="w-[150px] h-[150px]" />
             <div className="font-display text-2xl font-bold">Buy a home</div>
             <p className="font-display text-base mt-2 text-center max-w-64 m-auto break-words text-gray-600">
               With over 1 million+ homes for sale available on the website,
@@ -191,7 +191,7 @@ export default function Home() {
             </button>
           </div>
           <div className="flex flex-col justify-center items-center">
-            <img src="/static/asset2.svg" className="w-[150px] h-[150px]" />
+            <img src="/static/asset2.svg" alt="" className="w-[150px] h-[150px]" />
             <div className="font-display text-2xl font-bold">Rent a home</div>
             <p className="font-display text-base mt-2 text-center max-w-64 m-auto break-words text-gray-600">
               With 35+ filters and custom keyword search, Trulia can help you
@@ -202,7 +202,7 @@ export default function Home() {
             </button>
           </div>
           <div className="flex flex-col justify-center items-center">
-            <img src="/static/asset3.svg" className="w-[150px] h-[150px]" />
+            <img src="/static/asset3.svg" alt="" className="w-[150px] h-[150px]" />
             <div className="font-display text-2xl font-bold">
               See neighborhoods
             </div>
